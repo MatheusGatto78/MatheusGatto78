@@ -67,7 +67,7 @@ Todas elas estão reunidas neste repositório índice:
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=radical" alt="Matheus GitHub stats" height="150"/>  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- espaço ao redor, simula space-around -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- espaço ao redor, simula space-around -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=radical" alt="Top Langs" height="150"/>
 
 </div>
