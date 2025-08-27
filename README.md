@@ -59,3 +59,50 @@ Todas elas estão reunidas neste repositório índice:
 </div>
 
 
+
+
+
+
+
+
+## 🛠 Tecnologias, Ferramentas & Áreas de Atuação
+
+### 💻 Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ⚙️ Frameworks & Bibliotecas
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=mediapipe&logoColor=white)
+
+### 💾 Banco de Dados & APIs
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+REST API | MQTT
+
+### 🖥 Desenvolvimento Web & Mobile
+- Desenvolvimento de sites responsivos e dashboards  
+- Apps mobile com Flutter (Android/iOS)  
+- Integração com APIs externas e consumo de dados  
+- Gerenciamento de estados, roteamento e autenticação  
+
+### 🤖 Projetos com Hardware / IoT
+- Projetos com Raspberry Pi e sensores  
+- Servidores MQTT para comunicação IoT  
+- Hand Tracking e controle de dispositivos  
+
+### 🛠 Ferramentas & Workflow
+Git | GitHub | Linux | Figma | VS Code | Postman | Trello | Scrum / Kanban  
+
+### 🌱 Soft Skills & Desenvolvimento Pessoal
+- Aprendizagem contínua e resolução de problemas  
+- Trabalho em equipe e metodologias ágeis  
+- Comunicação clara e organização de projetos  
