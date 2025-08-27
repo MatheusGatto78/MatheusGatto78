@@ -64,13 +64,17 @@ Todas elas estão reunidas neste repositório índice:
 ---
 
 ## 📊 Estatísticas
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 0 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=radical" alt="Matheus GitHub stats" height="150"/>
+    </td>
+    <td align="center" style="padding: 0 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=radical" alt="Matheus GitHub stats" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=radical" alt="Top Langs" height="150"/>
-
-</p>
 
 
 
