@@ -58,9 +58,4 @@ Todas elas estão reunidas neste repositório índice:
 
 </div>
 
----
 
-## 📬 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
-- 📧 seuemail@email.com  
-- 🐙 [GitHub](https://github.com/seu-usuario)  
