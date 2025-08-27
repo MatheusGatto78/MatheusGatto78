@@ -14,15 +14,15 @@
 
 ### 🐍 Backend / Django e Flask
 - [**Projeto Servidor MQTT**](https://github.com/MatheusGatto78/Projeto-servidor-MQTT)    
-- [**Projeto Hotelaria Django**](https://github.com/seu-usuario/projeto-hotelaria-DJANGO)  
-- [**Projeto Webserver Flask - TODO**](https://github.com/seu-usuario/Projeto-webserver-flask-TODO)  
+- [**Projeto Hotelaria Django**](https://github.com/MatheusGatto78/projeto-hotelaria-DJANGO)  
+- [**Projeto Webserver Flask - TODO**](https://github.com/MatheusGatto78/Projeto-webserver-flask-TODO)  
 
 ### 🎯 Apps / Flutter 
-- [**Projeto APP de Produtividades**](https://github.com/seu-usuario/Projeto-APP-de-produtividades)  
+- [**Projeto APP de Produtividades**](https://github.com/MatheusGatto78/Projeto-APP-de-produtividades)  
 
 ### 🌐 Frontend / Web
-- [**Projeto Site com JavaScript**](https://github.com/seu-usuario/Projeto-Site-com-JAVASCRIPT)  
-- [**Projeto de Frontend - Painel de Controle**](https://github.com/seu-usuario/projeto-de-frontend-painel-de-controle)  
+- [**Projeto Site com JavaScript**](https://github.com/MatheusGatto78/Projeto-Site-com-JAVASCRIPT)  
+- [**Projeto de Frontend - Painel de Controle**](projeto-de-frontend-painel-de-controle)  
 
 ---
 
@@ -30,7 +30,7 @@
 Além dos projetos, também desenvolvi diversas **atividades práticas**.  
 Todas elas estão reunidas neste repositório índice:  
 
-👉 [**Repositório de Atividades Acadêmicas**](https://github.com/seu-usuario/academic-activities)
+👉 [**Repositório de Atividades Acadêmicas**](https://github.com/MatheusGatto78/academic-activities)
 
 ---
 
