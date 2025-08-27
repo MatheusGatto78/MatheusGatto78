@@ -66,8 +66,8 @@ Todas elas estão reunidas neste repositório índice:
 ## 📊 Estatísticas
 <div align="center">
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=radical)
 
 </div>
 
