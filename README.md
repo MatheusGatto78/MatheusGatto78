@@ -51,10 +51,11 @@ Todas elas estão reunidas neste repositório índice:
 
 ## 📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=default" alt="Matheus GitHub stats" height="150"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=dark" alt="Matheus GitHub stats" height="150"/>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=default" alt="Top Langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=dark" alt="Top Langs" height="150"/>
 </div>
+
 
 
 
