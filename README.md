@@ -1,19 +1,21 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por **desenvolvimento web e mobile**  
-🚀 Atualmente focado em **Django, Flask, Flutter e Tailwind CSS**  
+💻 Apaixonado por **desenvolvimento e tecnologia**  
+🚀 Atualmente focado em **Django, Flutter e JavaScript**  
 ✨ Sempre aprendendo, sempre evoluindo.  
 
 ---
 
 ## 🚀 Projetos em Destaque
 
+### 🖐 Backend / IoT 
+- [**Projeto Hand Tracking**](https://github.com/seu-usuario/Projeto-Hand-Tracking)
+
 ### 🐍 Backend / Django e Flask
-- [**Projeto Servidor MQTT**](https://github.com/seu-usuario/Projeto-servidor-MQTT)  
-- [**Projeto Hand Tracking**](https://github.com/seu-usuario/Projeto-Hand-Tracking)  
+- [**Projeto Servidor MQTT**](https://github.com/seu-usuario/Projeto-servidor-MQTT)    
 - [**Projeto Hotelaria Django**](https://github.com/seu-usuario/projeto-hotelaria-DJANGO)  
 - [**Projeto Webserver Flask - TODO**](https://github.com/seu-usuario/Projeto-webserver-flask-TODO)  
 
-### 🎯 Apps / Flutter / Produtividade
+### 🎯 Apps / Flutter 
 - [**Projeto APP de Produtividades**](https://github.com/seu-usuario/Projeto-APP-de-produtividades)  
 
 ### 🌐 Frontend / Web
@@ -23,7 +25,7 @@
 ---
 
 ## 📚 Atividades Acadêmicas
-Além dos projetos, também desenvolvi diversas **atividades práticas** durante a faculdade.  
+Além dos projetos, também desenvolvi diversas **atividades práticas**.  
 Todas elas estão reunidas neste repositório índice:  
 
 👉 [**Repositório de Atividades Acadêmicas**](https://github.com/seu-usuario/academic-activities)
@@ -58,5 +60,5 @@ Todas elas estão reunidas neste repositório índice:
 
 ## 📬 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
-- 📧 Email: seuemail@email.com  
+- 📧 seuemail@email.com  
 - 🐙 [GitHub](https://github.com/seu-usuario)  
