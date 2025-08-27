@@ -7,35 +7,18 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🏨 Django
-- [**Sistema de Hotelaria - Oficial**](https://github.com/seu-usuario/projeto-hotelaria-OFICIAL-DJANGO)  
-- [**Sistema de Hotelaria (variante)**](https://github.com/seu-usuario/projeto-hotelaria-DJANGO)  
-- [**Vendinha Django**](https://github.com/seu-usuario/Atividade_vendinha_DJANGO)  
+### 🐍 Backend / Django e Flask
+- [**Projeto Servidor MQTT**](https://github.com/seu-usuario/Projeto-servidor-MQTT)  
+- [**Projeto Hand Tracking**](https://github.com/seu-usuario/Projeto-Hand-Tracking)  
+- [**Projeto Hotelaria Django**](https://github.com/seu-usuario/projeto-hotelaria-DJANGO)  
+- [**Projeto Webserver Flask - TODO**](https://github.com/seu-usuario/Projeto-webserver-flask-TODO)  
 
-### 🐍 Flask
-- [**Biblioteca CRUD**](https://github.com/seu-usuario/Atividade-Biblioteca-Flask-CRUD)  
-- [**Webserver com Flask**](https://github.com/seu-usuario/Atividade-webserver-Com-Flask)  
-- [**Rascunho Webserver com Flask**](https://github.com/seu-usuario/rascunho-do-projeto-webserver-flask)  
+### 🎯 Apps / Flutter / Produtividade
+- [**Projeto APP de Produtividades**](https://github.com/seu-usuario/Projeto-APP-de-produtividades)  
 
-### 🎨 Frontend
-- [**Painel de Controle (Dashboard)**](https://github.com/seu-usuario/projeto-de-frontend-painel-de-controle)  
-- [**Formulário de Eventos - TailwindCSS**](https://github.com/seu-usuario/Atividade-Formulario-de-Eventos-TailwindCSS)  
-- [**Site de Viagens Responsivo**](https://github.com/seu-usuario/Atividade-Site-De-Viagens-Responsivel)  
-- [**Menu Mobile Spotify**](https://github.com/seu-usuario/Menu-mobile-spotify)  
-- [**Tela de Registro**](https://github.com/seu-usuario/Atividade-Tela-de-Registro)  
-- [**Fluxo de Login**](https://github.com/seu-usuario/Atividade-fluxo-de-login)  
-
-### 🎯 Dart / Flutter
-- [**Exercícios de Sintaxe em Dart**](https://github.com/seu-usuario/Lista-de-Exercicios-Praticando-a-Sintaxe-do-Dart)  
-- [**OOP com Dart**](https://github.com/seu-usuario/Atividade-OOP-com-Dart)  
-
-### 🌐 JavaScript / DOM
-- [**Prática com DOM - Exercícios**](https://github.com/seu-usuario/Pratica-com-DOM-Exercicios)  
-- [**Manipulação DOM - Landing Page**](https://github.com/seu-usuario/Atividade-manipulacao-DOM-Landing-Page)  
-- [**Calculadora**](https://github.com/seu-usuario/Atividade-calculadora)  
-
-### 🎮 Consumo de API
-- [**Rick and Morty API**](https://github.com/seu-usuario/Atividade-API_Rick_And_Morty)  
+### 🌐 Frontend / Web
+- [**Projeto Site com JavaScript**](https://github.com/seu-usuario/Projeto-Site-com-JAVASCRIPT)  
+- [**Projeto de Frontend - Painel de Controle**](https://github.com/seu-usuario/projeto-de-frontend-painel-de-controle)  
 
 ---
 
@@ -55,7 +38,6 @@ Todas elas estão reunidas neste repositório índice:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -67,16 +49,10 @@ Todas elas estão reunidas neste repositório índice:
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=radical" alt="Matheus GitHub stats" height="150"/>  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- espaço ao redor, simula space-around -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=radical" alt="Top Langs" height="150"/>
 
 </div>
-
-
-
-
-
-
 
 ---
 
