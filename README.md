@@ -7,7 +7,7 @@
 
 ---
 
-## 🌟 Projetos em Destaque
+# 🌟 Projetos em Destaque
 
 ### 🖐 Backend / IoT
 - [**Hand Tracking**](https://github.com/MatheusGatto78/Projeto-Hand-Tracking) – Sistema de reconhecimento de gestos com controle de relés via GPIO.
@@ -32,7 +32,7 @@ Além dos projetos, desenvolvi diversas **atividades práticas**, organizadas ne
 
 ---
 
-## ⚙️ Tecnologias que uso
+# ⚙️ Tecnologias que uso
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,7 +47,7 @@ Além dos projetos, desenvolvi diversas **atividades práticas**, organizadas ne
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 📊 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=dark" alt="Matheus GitHub stats" height="150"/>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
