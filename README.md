@@ -10,7 +10,7 @@
 ## 🚀 Projetos em Destaque
 
 ### 🖐 Backend / IoT 
-- [**Projeto Hand Tracking**]([https://github.com/seu-usuario/Projeto-Hand-Tracking](https://github.com/MatheusGatto78/Projeto-Hand-Tracking)
+- [**Projeto Hand Tracking**](https://github.com/MatheusGatto78/Projeto-Hand-Tracking)
 
 ### 🐍 Backend / Django e Flask
 - [**Projeto Servidor MQTT**](https://github.com/seu-usuario/Projeto-servidor-MQTT)    
