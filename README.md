@@ -64,12 +64,14 @@ Todas elas estão reunidas neste repositório índice:
 ---
 
 ## 📊 Estatísticas
-<div>
+<div style="display: flex; gap: 10px; justify-content: center;">
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=radical)
 
 </div>
+
+
 
 ---
 
