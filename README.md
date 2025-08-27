@@ -64,6 +64,7 @@ Todas elas estão reunidas neste repositório índice:
 ---
 
 ## 📊 Estatísticas
+<center>
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=radical" alt="Matheus GitHub stats" height="150"/>
@@ -71,7 +72,7 @@ Todas elas estão reunidas neste repositório índice:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=radical" alt="Top Langs" height="150"/>
 
 </div>
-
+</center>
 
 
 
