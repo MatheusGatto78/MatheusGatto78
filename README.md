@@ -13,7 +13,7 @@
 - [**Projeto Hand Tracking**](https://github.com/MatheusGatto78/Projeto-Hand-Tracking)
 
 ### 🐍 Backend / Django e Flask
-- [**Projeto Servidor MQTT**](https://github.com/seu-usuario/Projeto-servidor-MQTT)    
+- [**Projeto Servidor MQTT**](https://github.com/MatheusGatto78/Projeto-servidor-MQTT)    
 - [**Projeto Hotelaria Django**](https://github.com/seu-usuario/projeto-hotelaria-DJANGO)  
 - [**Projeto Webserver Flask - TODO**](https://github.com/seu-usuario/Projeto-webserver-flask-TODO)  
 
