@@ -26,7 +26,7 @@
 
 ---
 
-## 📚 Atividades Acadêmicas
+# 📚 Atividades Acadêmicas
 Além dos projetos, desenvolvi diversas **atividades práticas**, organizadas neste índice:  
 👉 [**Repositório de Atividades Acadêmicas**](https://github.com/MatheusGatto78/academic-activities)
 
