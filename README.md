@@ -7,6 +7,7 @@
   </a>
 </div>
 
+
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Status: Open to Work"/>
