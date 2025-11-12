@@ -25,7 +25,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Minha jornada na programa�
 ### Banco de Dados
 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-`}],path:
+
 
 ## Estatísticas do GitHub
 
