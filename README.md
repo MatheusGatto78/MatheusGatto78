@@ -2,7 +2,7 @@
 
 Desenvolvedor apaixonado por tecnologia e inovação. Minha jornada na programação é focada em construir soluções eficientes e escaláveis, utilizando uma variedade de tecnologias que vão do desenvolvimento web ao mobile.
 
-## 🛠️ Habilidades e Tecnologias
+## Habilidades e Tecnologias
 
 ### Linguagens e Ferramentas
 
@@ -27,7 +27,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Minha jornada na programa�
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 `}],path:
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <!-- GitHub Stats Card -->
 [![MatheusGatto78's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,7 +35,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Minha jornada na programa�
 <!-- Top Languages Card -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 
 Aqui estão alguns dos meus projetos mais recentes e relevantes:
 
@@ -46,14 +46,4 @@ Aqui estão alguns dos meus projetos mais recentes e relevantes:
 *   **Projeto-Site-com-JAVASCRIPT** (HTML/JavaScript): Um site desenvolvido com foco em JavaScript.
 *   **academic-activities**: Repositório para atividades acadêmicas.
 
-## 🔗 Conecte-se Comigo
-
-| Plataforma | Link |
-| :--- | :--- |
-| **GitHub** | [MatheusGatto78](https://github.com/MatheusGatto78) |
-| **LinkedIn** | [Seu LinkedIn (Placeholder) - **ATUALIZE ESTE LINK**](https://www.linkedin.com/in/seu-perfil) |
-| **Email** | [Seu Email (Placeholder) - **ATUALIZE ESTE LINK**](mailto:seu.email@exemplo.com) |
-
-> **Nota:** Lembre-se de substituir os links de **LinkedIn** e **Email** pelos seus dados reais!
-`}],path:
 
