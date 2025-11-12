@@ -30,10 +30,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Minha jornada na programa�
 ## Estatísticas do GitHub
 
 <!-- GitHub Stats Card -->
-[![MatheusGatto78's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Top Languages Card -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![MatheusGatto78's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <!-- Top Languages Card --> [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projetos em Destaque
 
