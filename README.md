@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou um entusiasta de tecnologia e estudante de **Análise e Desenvolvimento de Sistemas**. Meu foco é construir soluções robustas e eficientes, com interesse especial em **Backend com Django, desenvolvimento mobile com Flutter e IoT**.
 
@@ -28,7 +28,7 @@ Sou um entusiasta de tecnologia e estudante de **Análise e Desenvolvimento de S
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
   <p>
@@ -40,24 +40,12 @@ Sou um entusiasta de tecnologia e estudante de **Análise e Desenvolvimento de S
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </p>
 </div>
 
 ---
 
-## 💡 Projetos em Destaque
-
-| Categoria | Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- | :--- |
-| 🖐️ Backend / IoT | [**Hand Tracking**](https://github.com/MatheusGatto78/Projeto-Hand-Tracking ) | Reconhecimento de gestos para controle de relés via GPIO. | Python, OpenCV |
-| 🐍 Backend | [**Hotelaria Django**](https://github.com/MatheusGatto78/projeto-hotelaria-DJANGO ) | Sistema completo para gestão de quartos e reservas. | Django, MySQL |
-| 🎯 Mobile | [**App de Produtividade**](https://github.com/MatheusGatto78/Projeto-APP-de-produtividades ) | App para organização e produtividade pessoal. | Flutter, Dart |
-| 🌐 Frontend | [**Painel de Controle**](https://github.com/MatheusGatto78/projeto-de-frontend-painel-de-controle ) | Interface administrativa responsiva e interativa. | JavaScript, HTML, CSS |
-
----
-
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Matheus" height="160"/>
@@ -66,7 +54,7 @@ Sou um entusiasta de tecnologia e estudante de **Análise e Desenvolvimento de S
 
 ---
 
-## 🤝 Conecte-se Comigo
+## Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheusgatto78/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
