@@ -32,15 +32,3 @@ Desenvolvedor apaixonado por tecnologia e inovação. Minha jornada na programa�
 <!-- GitHub Stats Card -->
 [![MatheusGatto78's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <!-- Top Languages Card --> [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projetos em Destaque
-
-Aqui estão alguns dos meus projetos mais recentes e relevantes:
-
-*   **Projeto-Hand-Tracking** (Python): Um projeto de rastreamento de mãos.
-*   **projeto-hotelaria-DJANGO** (Python): Projeto de sistema de hotelaria utilizando o framework Django.
-*   **Projeto-APP-de-produtividades** (Dart/Flutter): Aplicativo mobile focado em produtividade.
-*   **Projeto-servidor-MQTT**: Projeto relacionado a um servidor MQTT.
-*   **Projeto-Site-com-JAVASCRIPT** (HTML/JavaScript): Um site desenvolvido com foco em JavaScript.
-*   **academic-activities**: Repositório para atividades acadêmicas.
-
-
