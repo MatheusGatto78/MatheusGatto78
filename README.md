@@ -57,6 +57,3 @@ Aqui estão alguns dos meus projetos mais recentes e relevantes:
 > **Nota:** Lembre-se de substituir os links de **LinkedIn** e **Email** pelos seus dados reais!
 `}],path:
 
----
-Feito com ❤️ por Matheus Gatto.
-
