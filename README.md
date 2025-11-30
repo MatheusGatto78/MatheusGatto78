@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-    <h2>📊 Estatísticas do GitHub</h2>
+    <h1>Estatísticas do GitHub</h1>
     <p>
         <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=tokyonight&hide_border=true&card_width=360&locale=pt-br" alt="Estatísticas do GitHub" /> 
         <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=tokyonight&hide_border=true&card_width=360&locale=pt-br" alt="Top Linguagens" />
