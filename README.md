@@ -21,20 +21,22 @@
 <br>
 
 <div align="center">
-    <h2>🛠️ Tecnologias e Ferramentas</h2>
-    <h3>Linguagens e Backend</h3>
-    <img height="40" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask" />
-    <h3>Frontend e Mobile</h3>
-    <img height="40" src="https://skillicons.dev/icons?i=flutter,tailwind,react" /> <h3>Banco de Dados e Infra</h3>
-    <img height="40" src="https://skillicons.dev/icons?i=postgresql,sqlite,git,github,docker" /> <h3>Hardware & IoT</h3>
-    <img height="40" src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv" />
-    <img height="40" src="https://cdn.simpleicons.org/mediapipe" alt="MediaPipe" />
+    <h1>Tecnologias e Ferramentas</h1>
+    <p align="center">
+
+  <img height="34" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter,postgresql,sqlite,git,github" />
+
+  <img height="34" src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv" />
+
+  <img height="34" src="https://cdn.simpleicons.org/mediapipe" />
+
+</p>
 </div>
 
 <br>
 
 <div align="center">
-    <h2>Estatísticas do GitHub</h2>
+    <h1>Estatísticas do GitHub</h1>
     <p>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=tokyonight&hide_border=true&card_width=440&locale=pt-br" alt="Estatísticas do GitHub" />
         <br>
