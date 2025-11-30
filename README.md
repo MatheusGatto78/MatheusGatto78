@@ -11,61 +11,12 @@
 
 <div align="center">
     <h1>Tecnologias e Ferramentas</h1>
-    <table width="100%">
-  <tr>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=python" alt="Python" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=html" alt="HTML" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=dart" alt="Dart" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=django" alt="Django" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=flask" alt="Flask" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=git" alt="Git" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" />
-    </td>
-    <td align="center">
-      <img height="34" src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
-    </td>
-  </tr>
-</table>
+    <p align="center">
+      <img height="34" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter,postgresql,sqlite,git,github" />
+      <img height="34" src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv" />
+      <img height="34" src="https://cdn.simpleicons.org/mediapipe" />
+    </p>
+
 </div>
 
 <br>
