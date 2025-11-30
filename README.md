@@ -13,50 +13,13 @@
 
 ---
 
-### 🧰 Tecnologias que uso
+### 🧰 Tecnologias
+
 <p align="left">
-
-  <!-- Linguagens -->
-  <strong>🔤 Linguagens:</strong><br>
-  <img height="30" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart" />
-  <br><br>
-
-  <!-- Frameworks / Ferramentas Backend -->
-  <strong>⚙️ Backend & Frameworks:</strong><br>
-  <img height="30" src="https://skillicons.dev/icons?i=django,flask" />
-  <br><br>
-
-  <!-- Frontend / Estilização -->
-  <strong>🎨 Front-end & Estilo:</strong><br>
-  <img height="30" src="https://skillicons.dev/icons?i=tailwind" />
-  <br><br>
-
-  <!-- Mobile -->
-  <strong>📱 Mobile:</strong><br>
-  <img height="30" src="https://skillicons.dev/icons?i=flutter" />
-  <br><br>
-
-  <!-- Bancos de Dados -->
-  <strong>🗄️ Bancos de dados:</strong><br>
-  <img height="30" src="https://skillicons.dev/icons?i=postgresql,sqlite" />
-  <br><br>
-
-  <!-- Ferramentas & Controle de Versão -->
-  <strong>🛠️ Ferramentas & Versionamento:</strong><br>
-  <img height="30" src="https://skillicons.dev/icons?i=git,github" />
-  <br><br>
-
-  <!-- Hardware / IoT -->
-  <strong>🔌 Hardware & Eletrônica:</strong><br>
-  <img height="30" src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-  <br><br>
-
-  <!-- Visão Computacional -->
-  <strong>🧠 Visão Computacional:</strong><br>
-  <img height="30" src="https://skillicons.dev/icons?i=opencv" />
-  <br>
-  <img height="30" src="https://img.shields.io/badge/MediaPipe-FF6F00?logo=google&logoColor=white&style=for-the-badge" />
+  <img height="30" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter,postgresql,sqlite,git,github,arduino,raspberrypi,opencv" />
+  <img height="30" src="https://img.shields.io/badge/MediaPipe-FF6F00?logo=google&logoColor=white&style=flat-square" />
 </p>
+
 
 
 ---
