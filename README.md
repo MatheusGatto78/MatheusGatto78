@@ -16,7 +16,7 @@
 ### 🧰 Tecnologias
 
 <p align="left">
-  <img height="38" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter,postgresql,sqlite,git,github,arduino,raspberrypi,opencv" />
+  <img height="80" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter,postgresql,sqlite,git,github,arduino,raspberrypi,opencv" />
 </p>
 
 
