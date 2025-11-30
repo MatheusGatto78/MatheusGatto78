@@ -10,17 +10,6 @@
 <br>
 
 <div align="center">
-    <a href="https://github.com/MatheusGatto78">
-        <img src="https://komarev.com/ghpvc/?username=MatheusGatto78&style=flat-square&color=blue" alt="Visualizações no Perfil" />
-    </a>
-    <a href="https://github.com/MatheusGatto78">
-        <img src="https://img.shields.io/github/commits-since/MatheusGatto78/MatheusGatto78/main?style=flat-square&label=Commits%20na%20Main&color=brightgreen" alt="Commits na Branch Principal" />
-    </a>
-</div>
-
-<br>
-
-<div align="center">
     <h1>Tecnologias e Ferramentas</h1>
     <p align="center">
 
@@ -36,11 +25,10 @@
 <br>
 
 <div align="center">
-    <h1>Estatísticas do GitHub</h1>
+    <h2>📊 Estatísticas do GitHub</h2>
     <p>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=tokyonight&hide_border=true&card_width=440&locale=pt-br" alt="Estatísticas do GitHub" />
-        <br>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=tokyonight&hide_border=true&card_width=440&locale=pt-br" alt="Top Linguagens" />
+        <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=tokyonight&hide_border=true&card_width=360&locale=pt-br" alt="Estatísticas do GitHub" /> 
+        <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=tokyonight&hide_border=true&card_width=360&locale=pt-br" alt="Top Linguagens" />
     </p>
 </div>
 
@@ -48,7 +36,7 @@
 
 
 <div align="center">
-    <h2>💌 Conecte-se Comigo</h2>
+    <h2>Conecte-se Comigo</h2>
     <p>
         <a href="URL_DO_LINKEDIN" target="_blank">
             <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
