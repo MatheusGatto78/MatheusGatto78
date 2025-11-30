@@ -1,21 +1,23 @@
 <h1 align="center">Olá, eu sou o Matheus!</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack | Criador de Interfaces | Estudante de Tec. Dev
+  Desenvolvedor Full Stack • Criador de Interfaces • Estudante de Tecnologia
 </p>
 
 <br>
 
-<h1 align="center">Github stats</h1>
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=tokyonight&hide_border=true" />
-  
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
 
-<h1 align="center">Tecnologias</h1>
+<!-- TECNOLOGIAS -->
+<h2 align="center">🛠️ Tecnologias</h2>
+
 <p align="center">
   <img height="34" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter,postgresql,sqlite,git,github" />
   <img height="34" src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv" />
@@ -24,15 +26,17 @@
 
 <br>
 
-<h1 align="center">Contato</h1>
-📧 **seu-email-aqui**  
-📱 **@seuInstagram**
+<!-- CONTATO -->
+<h2 align="center">📬 Contato</h2>
 
-<br>
-<br>
-<br>
-<br>
+<p align="center">
+  <strong>Email:</strong> matheusviniciusgatto@gmail.com <br>
+  <strong>Instagram:</strong> @mattheus_gatto
+</p>
 
----
+<br><br>
 
-<p align="center">Obrigado!</p>
+<hr>
+
+<p align="center">Obrigado por visitar meu perfil! 😄</p>
+
