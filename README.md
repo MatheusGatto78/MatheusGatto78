@@ -1,8 +1,14 @@
-<h1 align="center">👋 Olá, eu sou o Mathias!</h1>
+<h1 align="center">Olá, eu sou o Matheus!</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • Criador de Interfaces • Estudante de ADS
+  <img height="34" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter,postgresql,sqlite,git,github" />
+  <img height="34" src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv" />
+  <img height="34" src="https://cdn.simpleicons.org/mediapipe" />
 </p>
+<p align="center">
+  Desenvolvedor Full Stack | Criador de Interfaces | Estudante de Tec. Dev
+</p>
+
 
 ---
 
@@ -15,11 +21,12 @@
 
 ### 🧰 Tecnologias
 
-<p align="left">
+<p align="center">
   <img height="34" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter,postgresql,sqlite,git,github" />
   <img height="34" src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv" />
   <img height="34" src="https://cdn.simpleicons.org/mediapipe" />
 </p>
+
 
 
 
