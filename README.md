@@ -4,7 +4,7 @@
   Desenvolvedor Full Stack | Criador de Interfaces | Estudante de Tec. Dev
 </p>
 
----
+<br>
 
 ### GitHub Stats
 <p align="center">
@@ -13,7 +13,7 @@
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
 
 ### Tecnologias
 <p align="center">
@@ -22,12 +22,12 @@
   <img height="34" src="https://cdn.simpleicons.org/mediapipe" />
 </p>
 
----
+<br>
 
 ### 📫 Contato
 📧 **seu-email-aqui**  
 📱 **@seuInstagram**
 
----
+<br>
 
-<p align="center">✨ Valeu por passar no meu perfil! ✨</p>
+<p align="center">Obrigado!</p>
