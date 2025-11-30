@@ -6,7 +6,7 @@
 
 <br>
 
-### GitHub Stats
+<h1 align="center">Github stats</h1>
 <p align="center">
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=tokyonight&hide_border=true" />
   
@@ -15,7 +15,7 @@
 
 <br>
 
-### Tecnologias
+<h1 align="center">Tecnologias</h1>
 <p align="center">
   <img height="34" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter,postgresql,sqlite,git,github" />
   <img height="34" src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv" />
@@ -24,7 +24,7 @@
 
 <br>
 
-### 📫 Contato
+<h1 align="center">Contato</h1>
 📧 **seu-email-aqui**  
 📱 **@seuInstagram**
 
