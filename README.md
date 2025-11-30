@@ -21,8 +21,9 @@
 
 <p align="left">
   <img height="40" src="https://skillicons.dev/icons?i=postgresql,sqlite,git,github,arduino,raspberrypi,opencv" />
-  <img height="40" src="https://raw.githubusercontent.com/google/mediapipe/master/docs/images/mediapipe_logo_color.png" />
+  <img height="40" src="https://cdn.simpleicons.org/mediapipe" />
 </p>
+
 
 
 
