@@ -21,7 +21,7 @@
 
 <p align="left">
   <img height="40" src="https://skillicons.dev/icons?i=postgresql,sqlite,git,github,arduino,raspberrypi,opencv" />
-  <img height="40" src="https://img.shields.io/badge/MediaPipe-FF6F00?logo=google&logoColor=white&style=flat-square" />
+  <img height="40" src="https://raw.githubusercontent.com/google/mediapipe/master/docs/images/mediapipe_logo_color.png" />
 </p>
 
 
