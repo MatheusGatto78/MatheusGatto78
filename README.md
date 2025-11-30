@@ -2,9 +2,9 @@
     <h1>
         Olá, eu sou o Matheus!
     </h1>
-    <h3>
+    <p>
         Desenvolvedor Full Stack | Criador de Interfaces | Estudante de Tecnologia
-    </h3>
+    </p>
 </div>
 
 <br>
