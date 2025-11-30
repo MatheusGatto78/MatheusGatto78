@@ -35,10 +35,10 @@ Desenvolvedor apaixonado por tecnologia e inovação. Minha jornada na programa�
 
 
 
-<h1 align="center">👋 Olá, eu sou o Mathias!</h1>
+<h1 align="center">👋 Olá, eu sou o Matheus!</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • Criador de Interfaces • Estudante de ADS
+  Desenvolvedor Full Stack | Criador de Interfaces | Estudante de ADS
 </p>
 
 ---
@@ -59,8 +59,8 @@ Desenvolvedor apaixonado por tecnologia e inovação. Minha jornada na programa�
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=tokyonight" />
 </p>
 
 ---
