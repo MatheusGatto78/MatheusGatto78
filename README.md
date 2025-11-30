@@ -12,37 +12,14 @@
 
 ---
 
-### 🚀 Sobre mim
-- 💻 Estudando desenvolvimento web & mobile  
-- 🛠️ Projetos com Django, Flutter, Tailwind e Raspberry Pi  
-- 🌱 Sempre aprendendo algo novo para evoluir como dev
-
----
-
-### 🧰 Tecnologias
-
+### GitHub Stats
 <p align="center">
-  <img height="34" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter,postgresql,sqlite,git,github" />
-  <img height="34" src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv" />
-  <img height="34" src="https://cdn.simpleicons.org/mediapipe" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
-
-
-
-
-
-
-
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MatheusGatto78&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGatto78&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
