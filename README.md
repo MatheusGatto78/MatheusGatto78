@@ -16,13 +16,10 @@
 ### 🧰 Tecnologias
 
 <p align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter" />
+  <img height="32" src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,dart,django,flask,tailwind,flutter,postgresql,sqlite,git,github,arduino,raspberrypi,opencv" />
+  <img height="32" src="https://cdn.simpleicons.org/mediapipe" />
 </p>
 
-<p align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=postgresql,sqlite,git,github,arduino,raspberrypi,opencv" />
-  <img height="40" src="https://cdn.simpleicons.org/mediapipe" />
-</p>
 
 
 
