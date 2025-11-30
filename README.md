@@ -1,21 +1,21 @@
-<h1 align="center">👋 Olá, eu sou o Matheus!</h1>
+<h1 align="center">👋 Olá, eu sou o Mathias!</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack | Criador de Interfaces | Estudante de ADS
+  Desenvolvedor Full Stack • Criador de Interfaces • Estudante de ADS
 </p>
 
 ---
 
 ### 🚀 Sobre mim
-- 💻 Atualmente estudando desenvolvimento web & mobile  
-- 🛠️ Trabalhando em projetos de **Django**, **Flutter**, **Tailwind**, **Raspberry Pi**  
-- 🌱 Sempre tentando aprender algo novo
+- 💻 Estudando desenvolvimento web & mobile  
+- 🛠️ Projetos com Django, Flutter, Tailwind e Raspberry Pi  
+- 🌱 Sempre aprendendo algo novo para evoluir como dev
 
 ---
 
 ### 🧰 Tecnologias que uso
 <p align="left">
-  <img height="30" src="https://skillicons.dev/icons?i=html,css,js,ts,python,flutter,dart,django,tailwind,mysql,git,github" />
+  <img height="30" src="https://skillicons.dev/icons?i=python,dart,flutter,js,html,css,tailwind,git,github,mysql,raspberrypi" />
 </p>
 
 ---
@@ -29,9 +29,9 @@
 ---
 
 ### 📫 Contato
-📧 **mathias@example.com**  
+📧 **seu-email-aqui**  
 📱 **@seuInstagram**
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
+<p align="center">✨ Valeu por passar no meu perfil! ✨</p>
