@@ -31,17 +31,4 @@
 
 <br>
 
-<div align="center">
-    <h2>Conecte-se Comigo</h2>
-    <p>
-        <a href="URL_DO_LINKEDIN" target="_blank">
-            <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-        <a href="URL_DO_SEU_EMAIL" target="_blank">
-            <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-        </a>
-        <a href="URL_DO_SEU_PORTFOLIO" target="_blank">
-            <img src="https://img.shields.io/badge/-Portfólio-40E0D0?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
-        </a>
-    </p>
-</div>
+
